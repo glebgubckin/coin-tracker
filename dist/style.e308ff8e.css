@@ -1,0 +1,49 @@
+.app {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  margin-top: 5rem;
+}
+
+table {
+  font-size: 20px;
+  color: #000;
+}
+
+.table {
+  width: 900px;
+}
+
+#loader {
+  display: block;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+}
+
+.coin {
+  display: flex;
+  align-items: center;
+}
+
+.coin p {
+  margin: 0;
+}
+
+.coin span {
+  color: #888888;
+}
+
+.coin img {
+  margin-right: .8rem;
+  width: 32px;
+  height: 32px;
+}
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
